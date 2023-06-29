@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cawtoz
-- 🌱 I’m currently learning Java / Spigot Api.
+- 🌱 I’m currently learning Java / Spigot Api
 - 📫 How to reach me discord: cawtoz
 
 <!---
