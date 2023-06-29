@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cawtoz
 - 🌱 I’m currently learning Java / Spigot Api.
-- 📫 How to reach me ...
+- 📫 How to reach me discord: cawtoz
 
 <!---
 cawtoz/cawtoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
