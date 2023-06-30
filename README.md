@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cawtoz
+- 👋 Hi, I'm Carlos, but you can call me @cawtoz.
 - 🌱 I’m currently learning Java / Spigot Api
 - 📫 How to reach me discord: cawtoz
 
