@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Carlos, but you can call me @cawtoz.
-- 🌱 I’m currently learning Java / Spigot Api
+- 🌱 I’m currently learning Java / Kotlin / Spigot Api
 - 📫 How to reach me discord: cawtoz
 
 <!---
