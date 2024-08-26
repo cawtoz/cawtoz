@@ -25,4 +25,6 @@ fun main() {
 </a>
 
 ## ***Tools***
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,typescript,mongodb,mysql,git,html,css,astro,idea,vscode)](https://github.com/cawtoz)
+<a href="https://github.com/cawtoz">
+    <img height=80 src="https://skillicons.dev/icons?i=kotlin,java,typescript,mongodb,mysql,git,html,css,astro,idea,vscode"/>
+</a>
