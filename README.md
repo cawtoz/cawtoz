@@ -28,3 +28,5 @@ fun main() {
 <a href="https://github.com/cawtoz">
     <img width=100% src="https://skillicons.dev/icons?i=kotlin,java,typescript,mongodb,mysql,git,html,css,astro,idea,vscode"/>
 </a>
+
+![Snake animation](https://github.com/cawtoz/snk/raw/output/github-contribution-grid-snake.svg)
