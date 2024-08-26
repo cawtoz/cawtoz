@@ -20,8 +20,8 @@ fun main() {
 ```
 
 <div>
-    <img height=235.4 src="https://github-readme-stats.vercel.app/api?username=cawtoz&show_icons=true&title_color=ff7b72&bg_color=161b22&hide_border=true&icon_color=a5d6ff&text_color=e6eddf" />
-    <img height=235.4 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cawtoz&layout=compact&title_color=ff7b72&bg_color=161b22&hide_border=true&text_color=e6eddf&hide=javascript,c++,less,scss,blade,php,hack" />  
+    <img height=210 src="https://github-readme-stats.vercel.app/api?username=cawtoz&show_icons=true&title_color=ff7b72&bg_color=161b22&hide_border=true&icon_color=a5d6ff&text_color=e6eddf" />
+    <img height=210 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cawtoz&layout=compact&title_color=ff7b72&bg_color=161b22&hide_border=true&text_color=e6eddf&hide=javascript,c++,less,scss,blade,php,hack" />  
 </div>
 
 ## ***Tools***
