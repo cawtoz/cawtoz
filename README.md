@@ -26,5 +26,5 @@ fun main() {
 
 ## ***Tools***
 <a href="https://github.com/cawtoz">
-    <img height=80 src="https://skillicons.dev/icons?i=kotlin,java,typescript,mongodb,mysql,git,html,css,astro,idea,vscode"/>
+    <img width=100% src="https://skillicons.dev/icons?i=kotlin,java,typescript,mongodb,mysql,git,html,css,astro,idea,vscode"/>
 </a>
