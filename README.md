@@ -1,4 +1,5 @@
 ## ***About me***
+![profile-views](https://komarev.com/ghpvc/?username=cawtoz&color=ff7b72&style=for-the-badge)
 ```kotlin
 data class Developer(
     val name: String,
