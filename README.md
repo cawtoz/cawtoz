@@ -12,7 +12,7 @@ fun main() {
     val cawtoz = Developer(
         name = "Carlos Torres",
         alias = "cawtoz",
-        portfolio = "https://cawtoz.github.io/Portfolio/"
+        portfolio = "https://cawtoz.github.io/portfolio/"
     )
 
     print(cawtoz)
